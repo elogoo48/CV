@@ -9,7 +9,7 @@ CV de Yanis El Fellah étudiant en BTS SIO au Lycée Turgot , Paris (3ème)
 - Base de données
 - Eco-Droit-Management
 ### Stages
--Maintenance d'équipement informatique
+- Maintenance d'équipement informatique
 ### Système
 - Windows
 - Linux (Ubuntu,Manjaro,Kali)
