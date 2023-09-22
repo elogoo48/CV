@@ -35,6 +35,7 @@ CV de Yanis El Fellah étudiant en BTS SIO au Lycée Turgot , Paris (3ème)
 ### Cybersécurité
 - RootME
 - Kali Linux
+- TryHackME
 ### Economie Droit-Management
 - RGPD
 - Les agents économique
